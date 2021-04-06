@@ -2,6 +2,7 @@
 A new variation of Antistasi, new templates, features, and maps
 
 Templates:
+
 Legion (Updated)
 
 CUP
